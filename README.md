@@ -57,8 +57,7 @@ model.fit(X_train, y_train)
 Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
-   git clone https://github.com/Praneesh-Gattadi/MACHINE-LEARNING-MODEL-IMPLEMENTATION.git
-   cd MACHINE-LEARNING-MODEL-IMPLEMENTATION
+   git clone https://github.com/manikanta9356/MACHINE-LEARNING-MODEL-IMPLEMETATION
 
 2. **Install Required Libraries**:
    pip install numpy pandas scikit-learn matplotlib seaborn
