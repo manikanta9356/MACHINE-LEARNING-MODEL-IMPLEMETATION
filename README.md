@@ -1,16 +1,3 @@
-# Machine Learning Model
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Gattadi Manikanta
-
-*INTERN ID*: CT04DM1361
-
-*DOMAIN*: Python Programming
-
-*DURATION*: 4 Weeks
-
-*MENTOR*: NEELA SANTOSH
 
 # Predictive Model using Scikit-learn
 
