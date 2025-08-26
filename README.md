@@ -56,3 +56,6 @@ Follow these steps to run the project locally:
 4. **Run the Notebook**:
    - Run each cell in order.
    - The notebook will preprocess the data, train the model, and display evaluation results.
+  
+✨ Author: Manikanta Gattadi
+Made with ❤️
